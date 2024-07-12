@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/anan.notion.github.io/static/css/main.f6af0ee9.css",
-    "main.js": "/anan.notion.github.io/static/js/main.50914102.js",
+    "main.css": "/anan.notion.github.io/static/css/main.0250fa46.css",
+    "main.js": "/anan.notion.github.io/static/js/main.508f4e94.js",
     "static/js/453.2c1a49a1.chunk.js": "/anan.notion.github.io/static/js/453.2c1a49a1.chunk.js",
     "index.html": "/anan.notion.github.io/index.html",
-    "main.f6af0ee9.css.map": "/anan.notion.github.io/static/css/main.f6af0ee9.css.map",
-    "main.50914102.js.map": "/anan.notion.github.io/static/js/main.50914102.js.map",
+    "main.0250fa46.css.map": "/anan.notion.github.io/static/css/main.0250fa46.css.map",
+    "main.508f4e94.js.map": "/anan.notion.github.io/static/js/main.508f4e94.js.map",
     "453.2c1a49a1.chunk.js.map": "/anan.notion.github.io/static/js/453.2c1a49a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6af0ee9.css",
-    "static/js/main.50914102.js"
+    "static/css/main.0250fa46.css",
+    "static/js/main.508f4e94.js"
   ]
 }
