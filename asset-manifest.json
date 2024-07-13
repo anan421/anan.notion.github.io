@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/anan.notion.github.io/static/css/main.0250fa46.css",
-    "main.js": "/anan.notion.github.io/static/js/main.de891a67.js",
+    "main.js": "/anan.notion.github.io/static/js/main.364dd5b0.js",
     "static/js/453.2c1a49a1.chunk.js": "/anan.notion.github.io/static/js/453.2c1a49a1.chunk.js",
     "index.html": "/anan.notion.github.io/index.html",
     "main.0250fa46.css.map": "/anan.notion.github.io/static/css/main.0250fa46.css.map",
-    "main.de891a67.js.map": "/anan.notion.github.io/static/js/main.de891a67.js.map",
+    "main.364dd5b0.js.map": "/anan.notion.github.io/static/js/main.364dd5b0.js.map",
     "453.2c1a49a1.chunk.js.map": "/anan.notion.github.io/static/js/453.2c1a49a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0250fa46.css",
-    "static/js/main.de891a67.js"
+    "static/js/main.364dd5b0.js"
   ]
 }
